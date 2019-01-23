@@ -6,6 +6,7 @@ comments: false
 ---
 I am a second-year Masters' student at Brown University studying Biostatistics. My interest is in statistical learning and network meta-analysis. I am advised by [Dr. Schmid Christophor](https://vivo.brown.edu/display/cschmid).
 
+I am a tennis :tennis: enthusiast. My favorite player if Roger Federer, now and always!!! :cow:
 
 ## Work Experience
 

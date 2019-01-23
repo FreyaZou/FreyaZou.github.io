@@ -12,8 +12,8 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Welcome to my blog!",
-      excerpt: "This is my first webpage. I am going to keep updating it if I have time. I will share some...",
-      categories: ["jekyll","update"],
+      excerpt: "This is my first webpage. Simple huh. I will keep updating. I will share some traveling tips, baking receipe, as...",
+      categories: ["Fun","update"],
       tags: [],
       id: 0
     });
@@ -31,8 +31,8 @@ var store = [
       
       {
         "title": "Welcome to my blog!",
-        "url": "http://localhost:4000/jekyll/update/welcome-to-jekyll/",
-        "excerpt": "This is my first webpage. I am going to keep updating it if I have time. I will share some...",
+        "url": "http://localhost:4000/fun/update/welcome-to-jekyll/",
+        "excerpt": "This is my first webpage. Simple huh. I will keep updating. I will share some traveling tips, baking receipe, as...",
         "teaser":
           
             null
