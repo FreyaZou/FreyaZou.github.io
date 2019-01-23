@@ -6,7 +6,7 @@ comments: false
 ---
 I am a second-year Masters' student at Brown University studying Biostatistics. My interest is in statistical learning and network meta-analysis. I am advised by [Dr. Schmid Christophor](https://vivo.brown.edu/display/cschmid).
 
-I am a tennis :tennis: enthusiast. My favorite player if Roger Federer, now and always!!! :cow:
+I am a tennis :tennis: enthusiast. My favorite player is Roger Federer, now and always!!! :cow:
 
 ## Work Experience
 
@@ -14,7 +14,7 @@ I have worked for a BioTech Startup [BrainCo](https://www.brainco.tech/) as a ma
 
 **[LinkedIn](https://www.linkedin.com/in/fuyu-zou-3a7576151/)**
 
-**[Resume](Resume_FuyuZou_DS.pdf)**
+**[Resume](/about/Resume_FuyuZou_DS.pdf)**
 
 ## Projects
 * [Prediction of the Usefulness of the Yelp Review](yelp_review_report.pdf)
