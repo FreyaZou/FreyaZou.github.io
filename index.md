@@ -31,7 +31,7 @@ I have worked for a BioTech Startup [BrainCo](https://www.brainco.tech/) as a ma
 ## Selected Coursework
 **Computer Science**
 
-* Data Structure & Algorithms, Machine lLearning, Deep Learning
+* Data Structure & Algorithms, Machine Learning, Deep Learning
 
 **Statistics**
 
